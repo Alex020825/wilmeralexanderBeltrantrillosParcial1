@@ -1,0 +1,16 @@
+.icono{
+    margin-top: auto;
+    background-color: red;
+}
+
+.seccion{
+    background-color: brown;
+}
+.aviso{
+    background-color: rgb(255, 147, 128);
+}
+.piePagina{
+    
+    background-color: rgb(218, 58, 58);
+    text-align: center;
+}
